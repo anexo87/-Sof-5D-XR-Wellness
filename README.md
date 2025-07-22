@@ -84,5 +84,3 @@ Sofá inteligente reclinable que combina experiencias multisensoriales 5D, Reali
 - Prototipado rápido y pruebas con usuarios.
 
 ---
-
-¿Quieres que desarrolle la lista de materiales (BOM), un diagrama más detallado, o un ejemplo de flujo de software para integración?
